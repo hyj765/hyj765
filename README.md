@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hyj765
-- 👀 I’m interested in Cyber security and Deep Learning
+- 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning Linux Kernel and Windows Kernel Driver
 
 
