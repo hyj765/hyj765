@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hyj765
-- 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning Linux Kernel and Windows Kernel Driver
+
 
 
 ![hyj765's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyj765&show_icons=true&theme=radical)
